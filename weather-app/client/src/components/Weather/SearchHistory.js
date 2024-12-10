@@ -1,0 +1,1 @@
+const response = await weatherService.getSearchHistory(); 
